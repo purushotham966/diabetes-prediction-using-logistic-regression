@@ -11,9 +11,12 @@
  Model :-
  
 Output = 0 or 1
+
 Hypothesis => Z = WX + B
+
 hΘ(x) = sigmoid (Z)
 
 Cost Function
 Like Linear Regression, we will define a cost function for our model and the objective will be to minimize the cost.
 The cost function for a single training example can be given by:
+check ==> "Notes" that was uploaded
